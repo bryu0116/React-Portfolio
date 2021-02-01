@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hello and thanks for visiting my website! I am from Horsham, PA. I previously taught Middle School Math for 2 years in Philadelphia. However, I have decided to begin an exciting new career in Web Development.',
   paragraphTwo: 'A career in Web Development has fascinating aspects such as troubleshooting, continuous learning and endless abilities to eventually change the world. I am excited to leverage my skills and open up to new adventures!',
   paragraphThree: 'Aside from the web, I enjoy building custom mechanical keyboards, and LEGO. I do also enjoy spending time with my wife and two adorable cats (Chris and Atto).',
-  resume: 'https://bryu0116.github.io/Portfolio/Brandon%20Byung%20Ryu%20FSWD%2002.pdf', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/17THePbxS962ACZ5Mf2teidV2AHGSudyr/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
